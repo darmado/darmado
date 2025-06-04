@@ -1,16 +1,16 @@
-## 🇺🇸  [OffensiveOps | Detection Engineering](https://x.com/darmad0)
+## 🇺🇸  [OffensiveOps | Security Workflows](https://x.com/darmad0)
 Self-taught, with ten years of hands-on work in TAO _(LATAM gov)_, adversary emulation, assumed breach, purple teaming, AppSec, and five years of security engineering and analyst work.
 
 
-I like to build flexible, modular, interoperable tools that bolt onto security tool ecosystems and are easy to maintain, deploy, and promote technical feedback loops.
+I like to build flexible, modular, interoperable tools that bolt onto security ecosystems, are easy to manage, and promote technical feedback loops.
 
 _Help protect innovators, the community, and startups from patent trolls.  Use the Apache 2.0 License._
 
 ##
 
  ### What am I working on?
- - [ARMADO](https://armadocorp.com) - Startup work. Building a **super-fast,  Anti-AI Powered Search Engine** for your logs 
- - [Attack-macOS](https://github.com/darmado/attack-macOS) - A library of MacOS scripts based on community research, CTI, atomic-red-team, and MITRE ATT&CK. 
+ - [ARMADO](https://armadocorp.com) - Startup work. Building a **super-fast,  Anti-AI Powered Security Workflow Engine** for your logs 
+ - [Attack-macOS](https://github.com/darmado/attack-macOS) - A library of MacOS attack scripts based on community research, CTI,  and MITRE ATT&CK. 
 
  ##
 
