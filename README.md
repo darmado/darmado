@@ -9,7 +9,8 @@ _Help protect innovators, the community, and startups from patent trolls.  Use t
 ##
 
  ### What am I working on?
- - [ARMADO](https://armadocorp.com) - Startup work. Building a **super-fast,  Anti-AI Powered Security Workflow Engine** for your logs 
+ - [ARMADO](https://armado.io) - Startup work. Building a **super-fast,  Terabyte-ready Security Pipelines** for your logs
+ - [Sandcat](https://github.com/armadoinc/sandcat) Adversary Emulation Framework built on top of CALDERA.
  - [Attack-macOS](https://github.com/darmado/attack-macOS) - A library of MacOS attack scripts based on community research, CTI,  and MITRE ATT&CK. 
 
  ##
