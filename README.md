@@ -1,8 +1,5 @@
 ## 🇺🇸  [OffensiveOps | Security Workflows](https://x.com/darmad0)
-Self-taught, with ten years of hands-on work in TAO _(LATAM gov)_, adversary emulation, assumed breach, purple teaming, AppSec, and five years of security engineering and analyst work.
-
-
-I like to build flexible, modular, interoperable tools that bolt onto security ecosystems, are easy to manage, and promote technical feedback loops.
+Self-taught, fifteen years in the industry with hands-on work in offensive ops and security engineering work.
 
 _Help protect innovators, the community, and startups from patent trolls.  Use the Apache 2.0 License._
 
