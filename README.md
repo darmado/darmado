@@ -1,8 +1,21 @@
+<h1 align="center">
+🇺🇸 
+    <a href="https://x.com/darmad0">
+    <img src="https://raw.githubusercontent.com/ali-han/Twitter-x-icon-logo/main/dark/Twitter%20X%20Icon.svg" alt="X" height="50" width="50">
+  </a>
+  <a href="https://www.linkedin.com/in/darmado/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
+  </a>
+  <a href="https://www.tiktok.com/@daarmado">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" alt="TikTok" height="30" width="40">
+  </a>
+</h1>
 
+  <p>
 <p align="center">
-  Hey! Thanks for stoppping by. I'm self-taught with 15+ years of combined experience in offensive operaitons, application security, and SOC. The project table below includes tools I've used for work.  
+Security engineer with 15+ years building offensive security tools, application security automation, and SOC operations. These projects may still be relevant and useful to solve real-world use cases in threat emulation, detection engineering, and security validation.
 </p>
-
+<br>
 <div>
 <p align="center">
 
@@ -101,15 +114,3 @@ MITRE ATT&CK Submissions
   <img src="https://github-readme-streak-stats.herokuapp.com?user=darmado&theme=darcula&hide_border=true&background=FFFFFF00&ring=9966CC&fire=9966CC&currStreakLabel=FFFFFF&stroke=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF">
 </p>
 
-
-<p align="center">
-  <a href="https://x.com/darmad0">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40">
-  </a>
-  <a href="https://www.linkedin.com/in/darmado/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
-  </a>
-  <a href="https://www.tiktok.com/@daarmado">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" alt="TikTok" height="30" width="40">
-  </a>
-</p>
